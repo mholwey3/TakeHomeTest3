@@ -1,0 +1,7 @@
+﻿  test_my_bst.cpp
+  my_bst.cpp
+  Generating Code...
+d:\documents\bradley classes\sophomore year\semester 2\adv ds and alg\takehometest3\takehometest3\my_bst.cpp(301): warning C4715: 'My_BST<int>::searchHelper': not all control paths return a value
+d:\documents\bradley classes\sophomore year\semester 2\adv ds and alg\takehometest3\takehometest3\my_bst.cpp(530): warning C4715: 'My_BST<int>::findLowestCommonAncestorHelper': not all control paths return a value
+  TakeHomeTest3.vcxproj -> D:\Documents\Bradley Classes\Sophomore Year\Semester 2\Adv DS and Alg\TakeHomeTest3\Debug\TakeHomeTest3.exe
+  TakeHomeTest3.vcxproj -> D:\Documents\Bradley Classes\Sophomore Year\Semester 2\Adv DS and Alg\TakeHomeTest3\Debug\TakeHomeTest3.pdb (Full PDB)
